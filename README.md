@@ -4,8 +4,4 @@ echo "Update 1" >> README.md
 git add .
 git commit -m "Update 1"
 git push
-
-echo "Update 2" >> README.md
-git add .
-git commit -m "Update 2"
-git push
+Trigger 2
